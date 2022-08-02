@@ -1,1 +1,1 @@
-# spring-boot-aws-lambda
+curl localhost:1001/getCustomer -H "Content-Type: text/plain" -d "Baeldung User"
